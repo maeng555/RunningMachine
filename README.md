@@ -1,4 +1,4 @@
-# smop_final
+# smop_final 러닝머신 프로젝트
 
 A new Flutter project.
 
